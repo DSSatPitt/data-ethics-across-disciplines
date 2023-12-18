@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Data Ethics Across the Disciplines"
+  description: "Event series Spring 2024, hoasted by the University of Pittsburgh Library System"
+  navbar:
+    background: "#0081A6"
+    pinned: true
+    collapse: true
+  sidebar: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+editor: visual
+
