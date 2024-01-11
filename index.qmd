@@ -6,9 +6,10 @@ title: ""
 
 ## Interdisciplinary Data Ethics Unconference
 
-📅 Friday, February 2, 2024    🕛 12--2pm
+📅 Friday, February 2, 2024    🕛 12--2pm\
+Presented jointly by the [University Library System (ULS)](https://library.pitt.edu/) and the [Research, Ethics and Society Initiative (RESI)](https://www.research.pitt.edu/about/research-ethics-and-society-initiative)
 
-The University Library System's [Data Ethics Across the Disciplines discussion series](https://dssatpitt.github.io/data-ethics-across-disciplines/) kicks off with a mini-unconference! Join us for an engaging conversation on the ethical data creation, use, and sharing challenges faced by researchers and students at Pitt. Meet up with fellow scholars interested in data ethics and with panelists from the Data Ethics Across the Disciplines series, as we collaboratively determine a discussion agenda and split up into small and large group discussions on various topics, such as:
+The Data Ethics Across the Disciplines discussion series kicks off with a mini-unconference! Join us for an engaging conversation on the ethical data creation, use, and sharing challenges faced by researchers and students at Pitt. Meet up with fellow scholars interested in data ethics and with panelists from the Data Ethics Across the Disciplines series, as we collaboratively determine a discussion agenda and split up into small and large group discussions on various topics, such as:
 
 -   ethical data collection practices
 -   evaluating data storage and sharing platforms through an ethics lens
