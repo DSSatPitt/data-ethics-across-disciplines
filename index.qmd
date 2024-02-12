@@ -2,7 +2,11 @@
 title: ""
 ---
 
-**Data Ethics Across the Disciplines** is a discussion series hosted by the [University of Pittsburgh Library System](https://library.pitt.edu/) during Spring 2024.
+**Data Ethics Across the Disciplines** is a discussion series hosted by the [University of Pittsburgh Library System](https://library.pitt.edu/), Digital Scholarship Services during Spring 2024.
+
+What ethical concerns have you dealt with around data collection or creation in your field? Are you interested in sharing your experience confronting ethical challenges in working with different kinds of data? Have you been seeking opportunities to connect with other researchers facing similar data-sharing issues, or are you looking for collaborators to tackle interdisciplinary data analysis problems? See our Upcoming Discussions below for opportunities to delve into these questions with fellow members of the Pitt community.
+
+See also the [Related Events] section below with talks from our partners at the [Research, Ethics and Society Initiative (RESI)](https://www.research.pitt.edu/about/research-ethics-and-society-initiative).
 
 ## Upcoming Discussions
 
@@ -39,7 +43,7 @@ How are social media data used or generated in your disciplinary practices? What
 **Speakers:**
 
 -   **Lara Putnam**, UCIS Professor (History), Director of the Global Studies Center, and Co-lead for the Civic Resilience Initiative of the Pitt Disinformation Lab
--   **Elise Silva**, Postdoctoral Associate with Pitt Cyber\'s Disinformation Lab and the Western PA Writing Project
+-   **Elise Silva**, Postdoctoral Associate with Pitt Cyber's Disinformation Lab and the Western PA Writing Project
 -   **Frances Corry**, Assistant Professor of Information Culture and Data Stewardship
 
 [✏ Register](https://pitt.libcal.com/event/12031138)
@@ -122,6 +126,82 @@ Join us for this panel discussion to connect with other Pitt community members i
 ------------------------------------------------------------------------
 
 *To find out about more digital scholarship events, [subscribe to the Library Digital Scholarship Services newsletter!](https://confirmsubscription.com/h/t/DF8BAC3FE84F3E2D)*
+
+## Related Events
+
+*From our partners at the [Research, Ethics and Society Initiative (RESI)](https://www.research.pitt.edu/events); visit links for location, registration, and more:*
+
+### Hidden Labor & Hidden Costs
+
+📅 Wednesday, February 14, 2024    🕙 10am--12pm
+
+> In our day-to-day interactions with apps and websites, we are often only privy to the up-front, monetary costs and user interfaces. When we order a mug from Amazon, or like a picture of puppies on Facebook, we enjoy the ease and entertainment of these services, but the inner workings that make these transactions so seamless and satisfying are hidden from us. We are promised and have come to expect technology to ensure our package arrives in two days or that our latest post is seen by our followers, but we are rarely compelled to question the "how" of these operations. What might we uncover if we dared to look into the mechanisms that make our lives so convenient and efficient? During this session, attendees will collectively explore questions about costs, labor and automation, and critically consider the true price of the technological infrastructure that supports our ways of living.
+
+[✏ More info and register](https://www.research.pitt.edu/events/hidden-labor-hidden-costs)
+
+### Building Partnerships to Advance Ethical Research: Collaborators, Communities & Companies
+
+📅 Wednesday, February 28, 2024    🕙 10am--4pm
+
+> As research teams become larger and more complex, forging effective partnerships to ensure the ethical conduct of research has become more challenging. Yet creating successful collaborations to ensure the responsible conduct of research is crucial at all stages of the research process. Researchers need to build a team that successfully integrates investigators, research staff, and trainees in the responsible conduct of research. They need to be able to partner respectfully in community-engaged and community-led research, building alliances to advance equity, inclusion, and cross-learning. And in creating relationships with funders and companies to develop and apply the research, researchers need to fulfill ethical duties including disclosure and managing conflicts of interest and commitment.
+>
+> This conference will discuss ways to build strong partnerships with investigators, communities, clinical research professionals, and companies to promote the ethical conduct and translation of research. Speakers will consider the elements of successful collaboration that promote research integrity, inclusivity, mutual respect, and accountability in the conduct of research.
+
+[✏ More info and register](https://www.research.pitt.edu/events/building-partnerships-advance-ethical-research-collaborators-communities-companies)
+
+### Shepherding Neurotechnology through Regulatory Review
+
+📅 Wednesday, February 28, 2024    🕝 3:30--5:30pm
+
+> This talk is hosted by the Pitt-CMU Rehab Neuroengineering Laboratory and co-sponsored by the Research, Ethics and Society Initiative of Pitt Research.
+
+[✏ More info and register](https://www.research.pitt.edu/events/shepherding-neurotechnology-through-regulatory-review)
+
+### Inequality & the Environment: Moving from Science to Action that Advances Environmental Justice and Health Equity
+
+📅 Friday, March 1, 2024    🕐 1--2pm
+
+> Lara Cushing, PhD, MPH\
+> Jonathan and Karin Fielding Presidential Chair in Health Equity and\
+> Assistant Professor of Environmental Health Sciences\
+> University of California, Los Angeles
+>
+> Abstract: People of color are more likely to breathe dirty air, drink contaminated water, and live near hazardous waste sites, industrial agriculture operations, and other sources of pollution. Accelerating climate change is having additional disproportionate effects on minoritized populations. This talk will discuss structural determinants of environmental health disparities and community-engaged research to develop decision support tools that advance environmental justice.
+
+[✏ More info and register](https://www.research.pitt.edu/events/inequality-environment-moving-science-action-advances-environmental-justice-and-health-equity)
+
+### The Black Prisoners of Stateville: Race, Research, and Reckoning at the Origin of Precision Medicine
+
+📅 Friday, March 22, 2024    🕛 12--1pm
+
+> James Tabery, PhD, MA\
+> Professor of Philosophy\
+> Center for Health Ethics, Arts & Humanities\
+> University of Utah
+>
+> Abstract: The modern science of pharmacogenomics, which set the stage for precision medicine, was born in a prison outside Chicago 70 years ago. Clinical researchers with the US Army and the University of Chicago used Black prisoners at the Stateville Penitentiary, as well as their family members and other Black community members in the vicinity, to determine why some people have a dangerous reaction to antimalarial drugs. The research, in hindsight, is shocking. There is a large body of research ethics scholarship that reflects on the controversial research conducted at Stateville; oddly, however, the standard version of this story is that the research involved only white prisoners. In this talk, Dr. Tabery will share what he and his colleagues have uncovered about the research involving the Black participants, ask why their contribution to the famous history of precision medicine has been omitted, and consider appropriate ways to remember a community of people whose bodies and blood were used to give rise to precision medicine.
+
+[✏ More info and register](https://www.research.pitt.edu/events/black-prisoners-stateville-race-research-and-reckoning-origin-precision-medicine)
+
+### Collective Futures
+
+📅 Wednesday, March 27, 2024    🕙 10am--12pm
+
+> As humans, we are inherently future-oriented. Our dreams and hopes fuel our lives and livelihoods. When you think of the words "future" and "progress", what comes to mind? Our popular media and rhetoric is filled with narratives that essentially equate progress and the future with the emergence of superior technology that will either solve all human problems or destroy humanity entirely. Who drives these dominant visions of the future that we are steering toward? How might we conceptualize future possibilities, outside of a framework of technological inevitability and centrality? For example, what might future families, communities, gardens, and schools look and feel like? During this session, we will collectively explore our questions about progress, and imagine education futures rooted in justice and freedom.
+
+[✏ More info and register](https://www.research.pitt.edu/events/collective-futures)
+
+### Ethics of Using AI in Medicine
+
+📅 Friday, April 5, 2024    🕛 12--1pm
+
+> Kellie N. Owens, PhD\
+> Assistant Professor of Population Health\
+> New York University
+>
+> Abstract: TBA
+
+[✏ More info and register](https://www.research.pitt.edu/events/ethics-using-ai-medicine)
 
 ## Past Events
 
