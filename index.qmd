@@ -129,7 +129,7 @@ Join us for this panel discussion to connect with other Pitt community members i
 
 ## Related Events
 
-*From our partners at the [Research, Ethics and Society Initiative (RESI)](https://www.research.pitt.edu/events); visit links for location, registration, and more:*
+*From our partners around campus, such as the [Research, Ethics and Society Initiative (RESI)](https://www.research.pitt.edu/events) and the [World History Center](https://www.worldhistory.pitt.edu/); visit links for location, registration, and more:*
 
 ### Hidden Labor & Hidden Costs
 
@@ -169,6 +169,16 @@ Join us for this panel discussion to connect with other Pitt community members i
 > Abstract: People of color are more likely to breathe dirty air, drink contaminated water, and live near hazardous waste sites, industrial agriculture operations, and other sources of pollution. Accelerating climate change is having additional disproportionate effects on minoritized populations. This talk will discuss structural determinants of environmental health disparities and community-engaged research to develop decision support tools that advance environmental justice.
 
 [✏ More info and register](https://www.research.pitt.edu/events/inequality-environment-moving-science-action-advances-environmental-justice-and-health-equity)
+
+### Read & Discuss: The Dangerous Art of Text Mining
+
+📅 Monday, March 18, 2024    🕝 2:30--4pm
+
+> Join the World History Center for a discussion about [*The Dangerous Art of Text Mining: A Methodology for Digital History*](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905) by Jo Guldi. A limited number of copies of the book will be made available before the event. The book is available to read online [here](https://www.cambridge.org/core/books/dangerous-art-of-text-mining/C07F637BB12F7D89CF9295F02EF44905#fndtn-contents).
+>
+> *The Dangerous Art of Text Mining* celebrates the bold new research now possible because of text mining: the art of counting words over time. However, this book also presents a warning: without help from the humanities, data science can distort the past and lead to perilous errors. The book opens with a rogue's gallery of errors, then tours the ground-breaking analyses that have resulted from collaborations between humanists and data scientists. Jo Guldi explores how text mining can give a glimpse of the changing history of the past---for example, how quickly Americans forgot the history of slavery. Textual data can even prove who was responsible in Congress for silencing environmentalism over recent decades. The book ends with an impassioned vision of what text mining in defence of democracy would look like, and why humanists need to be involved.
+
+[✏ More info and register](https://www.research.pitt.edu/events/black-prisoners-stateville-race-research-and-reckoning-origin-precision-medicine)
 
 ### The Black Prisoners of Stateville: Race, Research, and Reckoning at the Origin of Precision Medicine
 
