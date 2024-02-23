@@ -178,7 +178,7 @@ Join us for this panel discussion to connect with other Pitt community members i
 >
 > *The Dangerous Art of Text Mining* celebrates the bold new research now possible because of text mining: the art of counting words over time. However, this book also presents a warning: without help from the humanities, data science can distort the past and lead to perilous errors. The book opens with a rogue's gallery of errors, then tours the ground-breaking analyses that have resulted from collaborations between humanists and data scientists. Jo Guldi explores how text mining can give a glimpse of the changing history of the past---for example, how quickly Americans forgot the history of slavery. Textual data can even prove who was responsible in Congress for silencing environmentalism over recent decades. The book ends with an impassioned vision of what text mining in defence of democracy would look like, and why humanists need to be involved.
 
-[✏ More info and register](https://www.research.pitt.edu/events/black-prisoners-stateville-race-research-and-reckoning-origin-precision-medicine)
+[✏ More info and register](https://calendar.pitt.edu/event/read_discuss_the_dangerous_art_of_text_mining)
 
 ### The Black Prisoners of Stateville: Race, Research, and Reckoning at the Origin of Precision Medicine
 
