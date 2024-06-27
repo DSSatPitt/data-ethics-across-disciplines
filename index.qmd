@@ -6,7 +6,7 @@ title: ""
 
 The Spring 2024 Data Ethics series surfaced more questions than it resolved and made clear the need for continued conversations around how we as researchers, students, and instructors at Pitt navigate ethical data and digital research issues. 
 
-**Stay in touch** by joining the [Interdisciplinary Data Ethics @ Pitt community of practice](https://teams.microsoft.com/l/team/19%3AbhP6sRCqYuQJpQ0dXBruuC6h9svwRH4rW6KFKJCTYR01%40thread.tacv2/conversations?groupId=da3e92e6-025d-4371-9893-648d8d2a41a4&tenantId=9ef9f489-e0a0-4eeb-87cc-3a526112fd0d)!
+**Stay in touch** by joining the [Interdisciplinary Data Ethics @ Pitt community of practice](https://teams.microsoft.com/l/team/19%3AbhP6sRCqYuQJpQ0dXBruuC6h9svwRH4rW6KFKJCTYR01%40thread.tacv2/conversations?groupId=da3e92e6-025d-4371-9893-648d8d2a41a4&tenantId=9ef9f489-e0a0-4eeb-87cc-3a526112fd0d)! *(Open to Pitt community members; login with your Pitt credentials.)*
 
 You are also welcome to [subscribe to the Library Digital Scholarship Services newsletter](https://confirmsubscription.com/h/t/DF8BAC3FE84F3E2D) to be notified of any future data ethics events hosted by the University Library System.
 
@@ -22,7 +22,7 @@ See also the [Related Events] section below for Spring 2024 talks from our partn
 
 ### Event Recordings
 
-Pitt login required to view.
+*Pitt login required to view.*
 
 -   [Global Perspectives on Ethical Data Management](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50a28121-077d-45ec-8388-b19c001f5187&start=0) (February 23, 2024)
 -   [Social Media Data Ethics](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=43b18fab-64d2-4cce-88a3-b19c00205dac&start=0) (February 26, 2024)
